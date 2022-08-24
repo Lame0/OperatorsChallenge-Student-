@@ -81,7 +81,7 @@ class ViewController: UIViewController, UITextFieldDelegate, SFSafariViewControl
                 return
             }
         }
-    
+    //constants
         let number1 = arrayOfNumbers[0]
         let number2 = arrayOfNumbers[1]
         let number3 = arrayOfNumbers[2]
