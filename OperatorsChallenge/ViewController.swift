@@ -97,8 +97,12 @@ class ViewController: UIViewController, UITextFieldDelegate, SFSafariViewControl
         
         // MARK: - MVP
         var equalTo=number1==number2
+    var notequalTo=number3 != number4
+        var greaterthan=number5>number6
+        var lessthan=number7<number8
+        var greaterThenOrEqualTo=number9>=number10
+        var lessThenOrEqualTo=number11<=number12
     
-        
         // TODO: - MVP
 //        equalToLabel.text = "evaluates to \(equalTo)"
 //        notEqualToLabel.text = "evaluates to \(notEqualTo)"
